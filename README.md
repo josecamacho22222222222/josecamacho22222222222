@@ -11,7 +11,3 @@ Economista centrado en Ciencia de Datos, Análisis Estadístico y Desarrollo de 
 - **Análisis Estadístico y Econometría:** R, Stata, Python
 - **Visualización y BI:** Power BI, R Shiny
 - **Herramientas de Desarrollo y Reportes:** Git/GitHub, SQL, LaTeX (Overleaf)
-
-## 📊 Estadísticas de GitHub
-![Estadísticas de Jose](https://github-readme-stats.vercel.app/api?username=josecamacho22222222222&show_icons=true&theme=radial)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josecamacho22222222222&layout=compact&theme=radial)
