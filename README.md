@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Jose Luis Camacho 👋
 
-<!--
-**josecamacho22222222222/josecamacho22222222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economista centrado en Ciencia de Datos, Análisis Estadístico y Desarrollo de Software. Me apasiona aplicar mpodelos cuantitativos, econometría y analítica avanzada para resolver problemas socioeconómicos complejos y optimizar la toma de decisiones.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 📊 Actualmente cursando la Maestría en Economía Aplicada (Universidad del Valle), investigando asimetrías de información e isomorfismo institucional.
+- 🎓 Profesional en Economía (Universidad del Cauca) y Tecnólogo en Análisis y Desarrollo de Software (SENA).
+- 🧠 Áreas de interés: Econometría (Datos de Panel, Modelos Logit), Procesamiento de Lenguaje Natural (NLP), Machine Learning y Big Data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mi Stack Tecnológico
+- **Análisis Estadístico y Econometría:** R, Stata, Python
+- **Visualización y BI:** Power BI, R Shiny
+- **Herramientas de Desarrollo y Reportes:** Git/GitHub, SQL, LaTeX (Overleaf)
+
+## 📊 Estadísticas de GitHub
+![Estadísticas de Jose](https://github-readme-stats.vercel.app/api?username=josecamacho22222222222&show_icons=true&theme=radial)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josecamacho22222222222&layout=compact&theme=radial)
